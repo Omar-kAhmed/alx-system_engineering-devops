@@ -1,2 +1,2 @@
 #!/bin/bash
-[ "$(stat -c '%U' hello)" == "guillaume" ] && sudo chown betty hello
+if [ "$(stat -c %U hello)" == "guillaume" ]; then sudo chown betty hello; fi

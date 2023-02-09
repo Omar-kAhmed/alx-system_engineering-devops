@@ -1,4 +1,4 @@
-#### This Directory Contains Some shell commands learned while working on ALX Software Engineering Program; It consists of various files numbered from 0 to 18 and each task is illustarted along with its file number in the following lines.
+#### This Directory Contains Some shell commands learned while working on ALX Software Engineering Program; It consists of various files numbered from 0 to 16 and each task is illustarted along with its file number in the following lines.
 
 
 0 - Create a script that changes your user ID to betty. 

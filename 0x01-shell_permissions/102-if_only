@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty hello
+[ "$(stat -c '%U' hello)" == "guillaume" ] && sudo chown betty hello

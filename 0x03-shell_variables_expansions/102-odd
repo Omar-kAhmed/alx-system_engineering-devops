@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'A-Ma-mN-Zn-z' 'N-Zn-zA-Ma-m'
+ls -1 | cat -n | cat -T | grep [1,3,5,7,9]^I | cut -b 9-
